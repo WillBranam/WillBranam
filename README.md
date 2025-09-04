@@ -26,6 +26,7 @@
 - <b>React.js</b>
 - <b>Numpy</b>
 - <b>sklearn</b>
+- <b>OpenCV</b>
 - <b>MatPlotLib</b>
 
 
